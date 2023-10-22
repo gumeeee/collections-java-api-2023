@@ -1,0 +1,43 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven #
+target/
+
+# Gradle #
+build/
+.gradle/
+
+# IntelliJ IDEA #
+*.iml
+*.iws
+*.ipr
+
+# Eclipse #
+*.project
+*.classpath
+*.settings/
+.metadata/
+
+# NetBeans #
+nbproject/
+nbbuild/
+nbdist/
+nbactions.xml
+
+# vscode
+.vscode/
